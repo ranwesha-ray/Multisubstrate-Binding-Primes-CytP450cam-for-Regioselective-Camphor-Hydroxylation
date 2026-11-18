@@ -1,1 +1,2 @@
 # Multisubstrate-Binding-Primes-CytP450cam-for-Regioselective-Camphor-Hydroxylation
+This repository includes the CHARMM force-field files containing the parameters for camphor and Compound I (Cpd I). The camphor parameters are provided in the `CAM.itp` file. The Cpd I parameters can be identified by searching for the keywords `CPDI` or `JM` in the force-field files. The ferryl–oxo oxygen atom in Cpd I is designated as `OFE` throughout the force-field files.
